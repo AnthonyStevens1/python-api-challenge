@@ -1,0 +1,7 @@
+Weather Observations
+
+1 - My original thought is that the weather would be the hottest around the equator, however, it seems to be the hottest just around the 35 to 38 latitude mark for my selected cities.  
+
+2 - Cloudiness also seems to increase around the equator. 
+
+3 - There seems to be no correlation with latitude and wind speed.
